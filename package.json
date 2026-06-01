@@ -9,5 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "node-cron": "^4.2.1",
+    "nodemailer": "^8.0.10"
+  }
 }
